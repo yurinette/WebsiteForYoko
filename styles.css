@@ -116,7 +116,7 @@ HOME */
 .home-inner{
   max-width: 100%;
   height: 600px;
-  background-image: url(http://testsite.local/wp-content/themes/arkhe/assets/yokoimg/home.png);
+  background-image: url(yokoimg/home.png);
   background-size: cover;
   background-position:center top;
   background-repeat: no-repeat;
@@ -163,7 +163,7 @@ HOME */
   }
 
   .home-inner{
-    background-image: url(http://testsite.local/wp-content/themes/arkhe/assets/yokoimg/home_sp.JPG);
+    background-image: url(yokoimg/home_sp.JPG);
     /* background-position: right; */
     background-size: contain;
     width: 88%;
